@@ -46,9 +46,3 @@ python main.py
 
 4. The files will be saved in a directory named example-com-site-backup in your current working directory.
 
-## Contribution
-
-Feel free to contribute to the project by submitting issues or pull requests. All contributions are welcome!   
-
-For communication, you can send feedback to my Instagram account named **@yusuf.cyw**
-
