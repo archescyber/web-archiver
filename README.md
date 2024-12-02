@@ -32,7 +32,7 @@ Usage
 git clone https://github.com/archescyber/Web-Archiver.git
 ```
 ```
-cd web-archiver
+cd Web-Archiver
 ```
 
 
