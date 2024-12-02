@@ -29,7 +29,7 @@ Usage
 
 1. Clone the repository:
 ```
-git clone https://github.com/archescyber/web-archiver.git
+git clone https://github.com/archescyber/Web-Archiver.git
 ```
 ```
 cd web-archiver
